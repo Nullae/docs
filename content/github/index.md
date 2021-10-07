@@ -22,6 +22,6 @@ children:
   - /extending-github
   - /working-with-github-support
   - /understanding-how-github-uses-and-protects-your-data
-  - /site-policy
+  - /si
   - /site-policy-deprecated
 ---
